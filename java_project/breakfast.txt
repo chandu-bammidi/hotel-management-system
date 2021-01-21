@@ -1,0 +1,13 @@
+		***************WELCOME TO SPICY RESTAURENT***************
+		
+			   *********BREAKFAST MENU********* 
+
+		   S.NO	    ITEM			  PRICE
+		    
+		    1 ----- PURI  ------------------------- 40
+		    2 ----- IDLY  ------------------------- 40
+		    3 ----- VADA  ------------------------- 40
+		    4 ----- PARANTHA ---------------------- 20
+
+			  	WAITING FOR YOUR ORDER...
+				   PLEASE ORDER HERE.....

@@ -1,0 +1,14 @@
+		***************WELCOME TO SPICY RESTAURENT***************
+		
+			     *********DINNER MENU********* 
+
+	      	   S.NO	     ITEM			       PRICE
+
+		    1 ----- THALI      ------------------------- 60
+		    2 ----- PULOA      ------------------------- 70
+		    3 ----- PARANTHA   ------------------------- 20
+		    4 ----- ROTI       ------------------------- 10
+
+			  	   WAITING FOR YOUR ORDER...
+				      PLEASE ORDER HERE.....
+                                              

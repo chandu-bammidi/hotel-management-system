@@ -1,0 +1,13 @@
+		***************WELCOME TO SPICY RESTAURENT***************
+		
+			          *********LUNCH MENU********* 
+
+		   S.NO      ITEM			       PRICE
+
+		     1 ---- THALI      ------------------------- 60
+		     2 ---- PULOA      ------------------------- 70
+		     3 ---- BIRYANI    ------------------------- 90
+		     4 ---- FIRED RICE ------------------------- 80
+
+			  	WAITING FOR YOUR ORDER...
+				   PLEASE ORDER HERE.....
