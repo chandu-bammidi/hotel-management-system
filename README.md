@@ -1,3 +1,3 @@
 # hotel-management-system
 hotel management system using java
-Be careful while compiling 
+Helps in taking an order and provides the bill. 
